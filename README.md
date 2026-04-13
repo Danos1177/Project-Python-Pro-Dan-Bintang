@@ -9,5 +9,5 @@ Refresher.Area.Bot adalah bot pendeteksi objek yang dapat mengeluarkan polusi ya
 ## Teknologi
 Projek ini menggunakan 'Python 3.11' , Library yang digunakan antara lain:
 * 'discord.py'
-* 'TensorFlow'
+* 'Imageai'
 * 
